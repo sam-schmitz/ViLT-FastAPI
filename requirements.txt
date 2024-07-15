@@ -3,3 +3,4 @@ transformers[torch]
 pillow
 fastapi
 "uvicorn[standard]"
+io
