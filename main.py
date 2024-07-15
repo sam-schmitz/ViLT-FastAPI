@@ -23,4 +23,4 @@ def ask(text: str, image: UploadFile):
     
     result = model_pipeline(text, image)
     
-    return result
+    return {"answer": result}
