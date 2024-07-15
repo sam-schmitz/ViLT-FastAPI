@@ -1,6 +1,6 @@
 torch
-transformers[torch]
-pillow
+transformers
+Pillow
 fastapi
-"uvicorn[standard]"
-io
+uvicorn
+python-multipart
