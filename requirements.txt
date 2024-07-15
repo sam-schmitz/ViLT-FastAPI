@@ -1,3 +1,5 @@
 torch
 transformers[torch]
 pillow
+fastapi
+"uvicorn[standard]"
